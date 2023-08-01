@@ -25,10 +25,10 @@ Describe any challenges encountered while building the app.
 
 ## Learnings
 
--> Learned this app from Rahul Pandey videos, such great teacher.
--> Learned how to create and write logic for buttons(on clicking).
--> I use Jetpack Compose so learned a little bit of Views layout.
--> It was my first app which actually works!  
+* Learned this app from Rahul Pandey videos, such great teacher.
+* Learned how to create and write logic for buttons(on clicking).
+* I use Jetpack Compose so learned a little bit of Views layout.
+* It was my first app which actually works!  
 
 
 ## License
