@@ -2,7 +2,8 @@
 
 ## *Shubham Pandey*
 
-**Bigger Number App** prompts the user to select which of the two numbers presented is larger. The background color changes depends on whether the answer is correct or not. Red - Wrong Answer, Green - Correct Answer.
+**Bigger Number App** prompts the user to select which of the two numbers presented is larger. The background color changes depends on whether the answer is correct or not. 
+* Red - Wrong Answer, Green - Correct Answer.
 
 Time spent: **10** hours spent in total
 
