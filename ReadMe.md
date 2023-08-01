@@ -31,8 +31,11 @@ Describe any challenges encountered while building the app.
 * I use Jetpack Compose so learned a little bit of Views layout.
 * It was my first app which actually works!  
 
+## Video Walkthrough
+<img src="https://ephmedia.giphy.com/3ac67240-75a2-4d0b-8479-0f821853f857.gif" />
 
-## License
+
+## License 
 
     Copyright [2023] [Shubham Pandey]
 
